@@ -1,2 +1,1 @@
-# About me
-**Hello there :wave:**
+# **Hello there :wave:**
