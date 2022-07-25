@@ -1,2 +1,2 @@
 # About me
-**Coming soon!**
+**Hello there :wave:**
