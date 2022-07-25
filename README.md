@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hiphop602</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hipop602&label=Profile%20views&color=121212&style=flat" alt="hipop602" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🐍 I’m currently learning **Python**
 
 
 
