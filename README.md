@@ -3,9 +3,12 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **prodabproyt602@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3
+
+- 📫 How to reach me: **prodabproyt602@gmail.com**
+
 <p align="left">
 </p>
 
