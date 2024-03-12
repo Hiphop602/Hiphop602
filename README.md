@@ -1,12 +1,21 @@
 <h1 align="center">Hello 👋, I'm Hiphop602</h1>
 
 ___
+<div align="left">
+  <img src="https://lanyard-profile-readme.vercel.app/api/626635643245690880" alt="https://discord.com/users/626635643245690880" />
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3
 
 
-* You can reach me on Discord: [Hiphop602]([https://discord.com/users/707855061992079392])
+* You can reach me on Discord: [**Hiphop602**]([https://discord.com/users/707855061992079392])
+
+<p> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=hiphop602&show_icons=true&theme=radical)
+
 
 <p align="left">
 </p>
@@ -19,9 +28,7 @@ ___
 
 ___
 
-![](https://github-readme-stats.vercel.app/api?username=hiphop602&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://lanyard-profile-readme.vercel.app/api/626635643245690880" alt="https://discord.com/users/626635643245690880" />
-</div>
+
+
 
