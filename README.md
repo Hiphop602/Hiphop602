@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hiphop602</h1>
 
 ___
-<div align="left">
-  <img src="https://lanyard-profile-readme.vercel.app/api/626635643245690880" alt="https://discord.com/users/626635643245690880" />
-</div>
 
 
 
